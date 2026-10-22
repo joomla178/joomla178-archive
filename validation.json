@@ -1,0 +1,12 @@
+{
+  "articles": 202,
+  "images_saved": 731,
+  "images_unavailable": 144,
+  "image_formats": {
+    "JPEG": 341,
+    "PNG": 365,
+    "GIF": 25
+  },
+  "image_validation_errors": [],
+  "pending_articles": 20
+}

@@ -1,0 +1,110 @@
+# 研究开发
+
+来源：http://www.joomla178.com/joomla-share/research-and-development.html
+
+把钻研Joomla的成果分享出来，把开发Joomla经验记下来！这些都会成为让别人对你感激的理由。
+
+归档文章：102 篇。
+
+- [升级Joomla! 3.8导致Dizi images gallery无法工作](joomla-38-dizi-images-error.md) · 2017-12-26
+- [Joomla! 3.8结合标签、自定义字段打造产品分类](joomla38-build-product-pages.md) · 2017-12-14
+- [Joomla! 3.8全新的URL路由-Rourte你了解多少](latest-url-route-in-jooml38.md) · 2017-11-14
+- [Nginx中安装配置Let's Encrypt免费证书](nginx-installing-lets-encrypt-free-ssl.md) · 2016-05-08
+- [安装Gogs源码版遇到的麻烦](how-to-install-gogs.md) · 2016-03-03
+- [同一台电脑关于多个SSH KEY管理](one-pc-multi-ssh-key.md) · 2016-03-03
+- [解决Gitlab在Git操作中出现 GitLab: API is not accessible 错误](esolve-gitlab-api-is-not-accessible-when-pushing-to-a-new-repository.md) · 2016-03-02
+- [GitLab升级维护及升级后报500错误](gitlab-upgrade-problem.md) · 2016-01-19
+- [Joomla!中的BootStrap版本问题](joomla-bootstrap-version-problem.md) · 2014-12-30
+- [Joomla!转到GitHub后无法后台更新解决办法](joomla-update-from-github.md) · 2014-10-28
+- [Joomla! 3 文章配图小技巧](joomla3-insert-article-image.md) · 2014-02-08
+- [Joomla! 3 中的内容版本控制详解](joomla-3-content-version.md) · 2014-02-08
+- [Joomla! 语言覆盖](joomla-language-cover.md) · 2014-01-26
+- [Joomla Googlemaps Plugin Joomla!谷歌地图插件介绍](joomla-googlemaps-plugin.md) · 2014-01-15
+- [升级到Joomla! 3.2后 Xmap报错无法显示](update-to-joomla32-xmap-had-error.md) · 2013-11-11
+- [Joomla! 3.2 扩展库应用市场亲测体验](joomla-3-2-0-extensions-app-store-test.md) · 2013-11-09
+- [Joomla! 3.1.x升级至Joomla! 3.2后网站崩溃及其它问题](joomla-3-1-x-update-joomla-3-2-0.md) · 2013-11-09
+- [一条SQL语句删除Joomla!中千万条垃圾留言评论](sql-select-delete-trash-comments.md) · 2013-11-07
+- [Joomla! 加载模块插件深入运用](joomla-load-module.md) · 2013-09-25
+- [Joomla!后台更新失败解决办法](failed-to-update-joomla-extensions.md) · 2013-08-26
+- [移除Joomla的mootools-core.js和JCaption](remove-joomla-mootools-core-and-jcaption.md) · 2013-08-22
+- [更改Joomla的日期、时间格式](modify-joomla-data-style.md) · 2013-07-26
+- [Joomla!备份工具Akeeba Backup详解之还原篇](joomla-backup-tools-akeeba-bakcup-info-restore.md) · 2013-07-24
+- [Joomla!备份工具Akeeba Backup详解之备份篇](joomla-backup-tools-akeeba-bakcup-info.md) · 2013-07-15
+- [Joomla!文章和模块使用可变布局](joomla-article-module-layout.md) · 2013-07-08
+- [Joomla! SEO友好链接移除wf_menu_install和wf_menu_profiles](joomla-sef-remove-wf_menu_install-wf_menu_profiles.md) · 2013-07-01
+- [Joomla! 3 删除原生JS框架](joomla3-remove-self-js.md) · 2013-06-28
+- [Joomla!新功能Tags/标签实例运用](joomla-new-tags.md) · 2013-06-24
+- [Joomla!搜索功能美化、SEO优化及OpenSearch应用](joomla-search-diy-seo-opensearch.md) · 2013-06-19
+- [Joomla! 搜索字符限制解决方案](joomla-search-limit-word-solution.md) · 2013-06-18
+- [Joomla! 前台编辑及权限控制实战应用](joomla-front-editor-and-acl.md) · 2013-06-17
+- [Joomla 2.5 权限控制系统](joomla25-acl-system.md) · 2013-06-14
+- [Joomla! 3常见问题（下）](joomla3-faq-2.md) · 2013-05-31
+- [Joomla! 3常见问题（上）](joomla3-faq-1.md) · 2013-05-30
+- [领略强大的Joomla!一键更新](joomla-one-click-updates.md) · 2013-05-29
+- [Joomla!常见问题之JFolder::create: 解决办法](joomla-flase-jfolder-create-solved.md) · 2013-03-18
+- [Joomla! 3新特性：Tags标签](joomla3-new-features-tags.md) · 2013-03-12
+- [Joomla! 3中的11大新特色](joomla3-new-11-features.md) · 2013-03-12
+- [修改Joomla文章标题的语义化标签](modify-joomla-article-title-code.md) · 2013-03-10
+- [Joomla加速器-RokBooster](joomla-fast-tool-rokbooster.md) · 2013-03-08
+- [Joomla! 缓存的合理利用最大化网站效率](joomla-cache-more-information.md) · 2013-02-26
+- [Joomla! 添加多说评论系统](joomla-add-duoshuo-commit-system.md) · 2013-02-20
+- [Joomla! 3新特性 - 扩展的多语言及快捷筛选器功能](extension-of-items-associations-to-remaining-core-components.md) · 2013-02-05
+- [Joomla! 3新特性 - 安装Joomla时同步在线安装语言包](installation-of-language-packs-when-installing-joomla.md) · 2013-02-05
+- [查看Joomla! 2.5模板的模块位置](how-to-view-module-position-on-joomla25.md) · 2013-01-30
+- [免费精美的Joomla! 2.5后台模板-MissionControl](best-backend-template-for-joomla25.md) · 2013-01-25
+- [Joomla!升级至Joomla! 2.5的常见错误解决办法](joomla-upgrade-joomla25-error-resolve.md) · 2013-01-09
+- [MYSQL数据库迁移利器Navicat使用教程](mysql-navicat-info.md) · 2012-12-29
+- [Joomla!网站迁移备份全过程](joomla-backup-all-step.md) · 2012-12-29
+- [Joomla!开启SSL浏览及出现的问题](browser-as-ssl-on-joomla.md) · 2012-12-25
+- [Joomla! 语言快捷筛选器使用教程](joomla-language-quick-set-info.md) · 2012-11-10
+- [如何使用CSV Improved 导入商品到 Virtuemart](how-to-import-products-to-virtuemart-using-csv-import-improved.md) · 2012-11-06
+- [Joomla 1.7升级至2.5，1.7模板可直接使用](joomla17-update-to-joomla25.md) · 2012-09-06
+- [Joomla的htaccess文件使用范例](how-to-use-joomla-htaccess.md) · 2012-09-02
+- [Joomla 2.5 + Ucenter(discuz)整合同步登录的插件](joomla25-and-ucenter-users.md) · 2012-08-18
+- [Joomla1.7后台出现LOCK TABLES的解决方法](remove-lock-tables-error-on-joomla17.md) · 2011-12-07
+- [让K2完美支持搜索任意长度的中文字符](k2-support-search-any-keywords-for-chinese-character.md) · 2011-12-05
+- [Joomla组件Zoo作为产品展示之用](joomla-zoo-as-product-demo.md) · 2011-11-22
+- [链接丢失itemid导致模块无法显示的解决方法](lost-item-id.md) · 2011-11-16
+- [Rockettheme的Rokbox插件的使用教程](rokbox-tutorials.md) · 2011-08-31
+- [Could not create directory 解决方案](could-not-create-directory-solved.md) · 2011-02-20
+- [十款最受欢迎的Joomla扩展组件详细介绍](ten-popular-joomla-extensions.md) · 2011-02-19
+- [K2 分类模板配置及分类参数设置详解及修改[二]](k2-category-config-modyfy2.md) · 2011-02-19
+- [教你在Joomla正文中插入google广告、图片广告](get-how-to-creat-ads-and-google-adsense.md) · 2011-02-17
+- [解决JCE编辑器代码自动清除办法](solved-jce-editor-clean-code-auto.md) · 2011-02-16
+- [System-cache让Joomla网站速度再翻倍,像子弹在飞](system-cache-make-joomla-site-runningnn-fast.md) · 2011-02-14
+- [详解TAB模块Dinamods用法[初级配置篇]](sep-tab-module-dinamods-usage.md) · 2011-02-13
+- [K2 分类模板配置及分类参数设置详解及修改[一]](k2-category-config-modyfy.md) · 2011-02-13
+- [Joomla文章中插入模块实现方法](joomla-article-insert-module.md) · 2011-02-07
+- [将你的Joomla1.5.x升级至Joomla1.6](183.md) · 2011-01-27
+- [MYSQL实例讲解联合查询](177.md) · 2011-01-16
+- [Joomla自带缓存开启后页面布局混乱解决办法](175.md) · 2011-01-14
+- [JEZ reCAPTCHA 谷歌验证码插件及使用方法](176.md) · 2011-01-14
+- [ZOO布局突然无故混乱](173.md) · 2011-01-12
+- [Joomla1.6官方中文语言包无法安装临时解决方案](174.md) · 2011-01-12
+- [JOOMLA减肥利器CssJsCompress简体中文版](171.md) · 2011-01-11
+- [跟我学Joomla模块开发-Discuz最新主题模块【二】](169.md) · 2011-01-08
+- [joomla.cn发布VirtueMart的支付宝支付模块](167.md) · 2011-01-06
+- [跟我学Joomla模块开发-Discuz最新主题模块【一】](163.md) · 2011-01-04
+- [解决K2相关插件的前台中文无法显示](162.md) · 2010-12-28
+- [如何开发一个Joomla插件](160.md) · 2010-12-20
+- [关闭Display errors解决Joomla某些代码错误提示](153.md) · 2010-12-07
+- [Missing Jomsocial Zend Plugin Pack解决办法](152.md) · 2010-12-07
+- [分享K2的幻灯片模块Lof K2 SlideShow Module，类似ja_rasite模板首页的效果](145.md) · 2010-11-15
+- [Joomla的301重定向正确操作方法](144.md) · 2010-11-15
+- [让国内PHP主机支持在线解压解决方法](138.md) · 2010-11-03
+- [JFusion整合PHPBB3之 模块按活跃、最新方式显示所有会员](108.md) · 2010-10-24
+- [分享两个常用文章展示模块[荐]](102.md) · 2010-10-17
+- [joomla用php 引言截断函数，符合UTF-8编码](86.md) · 2010-09-26
+- [Navicat 9.0.10专业MYSQL数据库软件](85.md) · 2010-09-25
+- [合理利用joomla cache(缓存) 让网站速度翻倍](77.md) · 2010-09-21
+- [定制了一下mod_k2_content，符合中文使用习惯的限制标题字数](72.md) · 2010-09-20
+- [Joomla!网站防黑指南](70.md) · 2010-09-18
+- [利用phpmyAdmin批量更新数据库达到更改joomla菜单设置](68.md) · 2010-09-17
+- [学会joomla相关简单汉化，或者完全汉化！个性汉化](64.md) · 2010-09-16
+- [SEO工具，joomla专业统计组件！JoomlaStats 3.03中文版下载](58.md) · 2010-09-14
+- [joomla常见问题解决方案](27.md) · 2010-09-11
+- [Z00_2.0让你的joomla网站成为变形金钢](26.md) · 2010-09-11
+- [解决joomla SEF在服务器上无法运作（无样式，布局乱）](20.md) · 2010-09-10
+- [joomla模板首页无内容时自动隐藏主体内容区域](19.md) · 2010-09-10
+- [Jomsocial的会员列表模块修改（隐藏管理员、编辑）](18.md) · 2010-09-01
+- [让joomla模块有自定义链接的更多(more) [可后台输入]](17.md) · 2010-08-26
